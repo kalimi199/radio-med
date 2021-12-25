@@ -1,0 +1,24 @@
+{
+	"admob_app_id":"ca-app-pub-xxxxxxxxxxxxxxxx~yyyyyyyyyy",
+	"admob_banner_id":"ca-app-pub-3940256099942544/6300978111",
+	"admob_interstitial_id":"ca-app-pub-3940256099942544/1033173712",
+	"admob_app_open_id":"ca-app-pub-3940256099942544/3419835294",
+	
+	"ironsource_app_key":"10bc7dafd",
+	
+	"network_type":"iron",
+	"interstitial_counter":3,
+	
+	"radio_channel_url":"http://149.202.22.75:8032/live",
+	
+
+	"facebook_name":"mypage",
+	"twitter":"https://saveyourdownload.com/",
+	"instagram":"https://saveyourdownload.com/",
+	"website":"https://saveyourdownload.com/",
+	"appcontact":"+1-202-555-0119",
+	
+	"auto_play":false,
+	
+	"privacy_url":"https://saveyourdownload.com/"
+}
